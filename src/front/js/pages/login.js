@@ -65,7 +65,7 @@ export const LogIn = () => {
                         <button type="submit" className="btn btn-primary btn-lg">Log In</button>
                       </div>
                       <div className="text-center">
-                        <p className="fw-bold">Don't have an account? <Link to="/register">Register</Link></p>
+                        <p className="fw-bold">Don't have an account? <Link to="/signup">Register</Link></p>
                       </div>
                     </form>
                   </div>
